@@ -292,6 +292,8 @@
     </EmbeddedResource>
     <EmbeddedResource Include="NumpadHelp.resx">
       <DependentUpon>NumpadHelp.cs</DependentUpon>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>NumpadHelp1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="PlanetCNC\GUI_panel_BitValue.resx">
       <DependentUpon>GUI_panel_BitValue.cs</DependentUpon>
